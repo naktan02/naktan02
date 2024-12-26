@@ -13,7 +13,7 @@
     <div style="display: flex; align-items: center;">
         <img src="https://i.namu.wiki/i/AH3LNI--UepcocCUTpXCOv3Z9t866BLqbjpxyPFX6e7bMDd5XwHd-uYdMgHkWuzd9WGjyoXJwHLxaawoPunjNsopBWE_DWfMnGVJdEWGdi_ou22RlpcH8BSZIlLQbvAinKrUqURUGfMzMQXctGlJb9ESXgpJdfEx2onAYai7k-o.svg" alt="GitHub Logo" width="23">
         <span style="margin-left: 10px;">Tistory: </span>
-        <a href="https://github.com/naktan02">@MYongGuk</a>
+        <a href="https://naktan.tistory.com/">Learning Blog</a>
     </div>
     <div style="display: flex; align-items: center;">
         <img src="https://i.namu.wiki/i/AH3LNI--UepcocCUTpXCOkTaRGzPB2copMzT_8Pj36H_46_ILbs5vbS9e7g969cn_LVG2wiExhVepx3Ii9sr_Rb_2tfEIx1KP7iwNy1bjonwybEnLYASern9Go7gdeEBo9HZIqeqURoxEoByQkv6rwR93_JoUAEQtnusEnOYB_A.svg" alt="Naver Blog Logo" width="25">
