@@ -5,7 +5,9 @@
 <p>I just started working as a developer</p>
 <div>
     <div style="display: flex; align-items: center;">
+        <a href="https://github.com/naktan02">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25">
+        </a>
         <span style="margin-left: 10px;">GitHub: </span>
         <a href="https://github.com/naktan02">@MYongGuk</a>
     </div>
