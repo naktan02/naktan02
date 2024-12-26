@@ -5,7 +5,7 @@
 <p>👋 Hello! I'm Jeong Myeong Guk!</p>
 <br>
 <p>I just started working as a developer</p>
-:octocat:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 <hr>
 
 
