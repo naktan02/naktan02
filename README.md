@@ -12,7 +12,7 @@
         <a href="https://github.com/naktan02">@MYongGuk</a>
     </div>
     <div style="display: flex; align-items: center;">
-        <a href="https://naktan.tistory.com/" target="_blank">
+        <a href="https://naktan.tistory.com/">
         <img src="https://i.namu.wiki/i/AH3LNI--UepcocCUTpXCOv3Z9t866BLqbjpxyPFX6e7bMDd5XwHd-uYdMgHkWuzd9WGjyoXJwHLxaawoPunjNsopBWE_DWfMnGVJdEWGdi_ou22RlpcH8BSZIlLQbvAinKrUqURUGfMzMQXctGlJb9ESXgpJdfEx2onAYai7k-o.svg" alt="GitHub Logo" width="20">
         </a>
         <span style="margin-left: 10px;">Tistory: </span>
