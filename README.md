@@ -23,7 +23,7 @@
     <div style="display: flex; align-items: center;">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail Icon" width="20">
         <span style="margin-left: 10px;">Email: </span>
-        <a href="https://github.com/naktan02">jmgjmg102@gmail.com</a>
+        <a href="mailto:jmgjmg102@gmail.com">jmgjmg102@gmail.com</a>
     </div>
 </div>
 
