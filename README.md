@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=A3DCBE&height=300&section=header&text=Jeong%20Myeong%20Guk&fontSize=70" />
 <hr>
 
-<h1>👋 Hello! I'm Jeong Myeong Guk!</h1>
-<br>
+<p>Hello! I'm Jeong Myeong Guk! 👋</p>
 <p>I just started working as a developer</p>
 <div>
     <div style="display: flex; align-items: center;">
