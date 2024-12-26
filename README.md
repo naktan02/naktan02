@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=A3DCBE&height=300&section=header&text=Jeong%20Myeong%20Guk&fontSize=70" />
-<hr style="height: 0.5px; border: none; background-color: black;">
+<hr>
 
 <p>👋 Hello! I'm Jeong Myeong Guk!</p>
 <br>
