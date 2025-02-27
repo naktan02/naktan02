@@ -13,14 +13,14 @@
     </div>
     <div style="display: flex; align-items: center;">
         <a href="https://naktan.tistory.com/">
-        <img src="https://i.namu.wiki/i/AH3LNI--UepcocCUTpXCOv3Z9t866BLqbjpxyPFX6e7bMDd5XwHd-uYdMgHkWuzd9WGjyoXJwHLxaawoPunjNsopBWE_DWfMnGVJdEWGdi_ou22RlpcH8BSZIlLQbvAinKrUqURUGfMzMQXctGlJb9ESXgpJdfEx2onAYai7k-o.svg" alt="GitHub Logo" width="20">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwA…3svElE3wJDF/SJJyo8WYHAN28FxGg0dDcAAAAAElFTkSuQmCC" alt="GitHub Logo" width="20">
         </a>
         <span style="margin-left: 10px;">Tistory: </span>
         <a href="https://naktan.tistory.com/">Learning Blog</a>
     </div>
     <div style="display: flex; align-items: center;">
         <a href="https://blog.naver.com/naktan_">
-        <img src="https://i.namu.wiki/i/AH3LNI--UepcocCUTpXCOkTaRGzPB2copMzT_8Pj36H_46_ILbs5vbS9e7g969cn_LVG2wiExhVepx3Ii9sr_Rb_2tfEIx1KP7iwNy1bjonwybEnLYASern9Go7gdeEBo9HZIqeqURoxEoByQkv6rwR93_JoUAEQtnusEnOYB_A.svg" alt="Naver Blog Logo" width="22">
+        <img src="https://i.namu.wiki/i/gGFV6fHpp3HZGdQJZed3W7macxc4…4XT-Dor415U6pF69fNKaBZ7LIOeZOLDcwSIqj3cEa9JdU.svg" alt="Naver Blog Logo" width="22">
         </a>
         <span style="margin-left: 10px;">Naver Blog: </span>
         <a href="https://blog.naver.com/naktan_">Daily life Blog</a>
