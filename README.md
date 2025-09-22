@@ -34,7 +34,7 @@
     </div>
 </div>
 
-<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgjmg102)](https://solved.ac/jmgjmg102)
 
 
