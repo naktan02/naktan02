@@ -1,29 +1,43 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=A3DCBE&height=300&section=header&text=Jeong%20Myeong%20Guk&fontSize=70" />
+
 <hr>
 
-<p>Hello! I'm Jeong Myeong Guk! 👋</p>
-<p>I just started working as a developer</p>
+<p>
+  Hello, I'm <strong>Myeong Guk Jeong </strong>.
+</p>
+
+<p>
+  I am a developer and graduate-school applicant interested in building reliable
+  AI systems through clear problem definitions, reproducible experiments, and
+  practical software engineering.
+</p>
+
+<p>
+  My current interests include machine learning, representation learning,
+  data-centric AI, federated learning, and privacy-preserving analytics.
+</p>
+
 <div>
     <div style="display: flex; align-items: center;">
         <a href="https://github.com/naktan02">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25">
         </a>
         <span style="margin-left: 10px;">GitHub: </span>
-        <a href="https://github.com/naktan02">@MYongGuk</a>
+        <a href="https://github.com/naktan02">@naktan02</a>
     </div>
     <div style="display: flex; align-items: center;">
         <a href="https://naktan.tistory.com/">
-        <img src="https://github.com/naktan02/photo/blob/master/github/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC.png?raw=true" alt="tistory" width="20">
+        <img src="https://github.com/naktan02/photo/blob/master/github/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC.png?raw=true" alt="Tistory Logo" width="20">
         </a>
         <span style="margin-left: 10px;">Tistory: </span>
-        <a href="https://naktan.tistory.com/">Learning Blog</a>
+        <a href="https://naktan.tistory.com/">Technical Blog</a>
     </div>
     <div style="display: flex; align-items: center;">
         <a href="https://blog.naver.com/naktan_">
         <img src="https://raw.githubusercontent.com/naktan02/photo/155ff6d94b670295fcb255e9cc1862c7835372f3/github/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%B8%94%EB%A1%9C%EA%B7%B8.svg" alt="Naver Blog Logo" width="22">
         </a>
         <span style="margin-left: 10px;">Naver Blog: </span>
-        <a href="https://blog.naver.com/naktan_">Daily life Blog</a>
+        <a href="https://blog.naver.com/naktan_">Personal Blog</a>
     </div>
     <div style="display: flex; align-items: center;">
         <a href="mailto:jmgjmg102@gmail.com">
@@ -34,14 +48,21 @@
     </div>
 </div>
 
-## 💡 Solved.ac  
+<br>
+
+## Research Interests
+
+- Machine Learning
+- Representation Learning
+- Data-Centric AI
+- Privacy-Preserving Analytics
+- Federated Learning
+- Applied Software Engineering for AI Systems
+
+
+
+## Solved.ac
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgjmg102)](https://solved.ac/jmgjmg102)
 
-
-
-
-
-
 <hr>
-
-
